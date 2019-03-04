@@ -1,0 +1,11 @@
+/Users/jb4/codes/LuckySeven/obj/Debug/netcoreapp2.1/LuckySeven.csprojAssemblyReference.cache
+/Users/jb4/codes/LuckySeven/obj/Debug/netcoreapp2.1/LuckySeven.csproj.CoreCompileInputs.cache
+/Users/jb4/codes/LuckySeven/obj/Debug/netcoreapp2.1/LuckySeven.AssemblyInfoInputs.cache
+/Users/jb4/codes/LuckySeven/obj/Debug/netcoreapp2.1/LuckySeven.AssemblyInfo.cs
+/Users/jb4/codes/LuckySeven/bin/Debug/netcoreapp2.1/LuckySeven.deps.json
+/Users/jb4/codes/LuckySeven/bin/Debug/netcoreapp2.1/LuckySeven.runtimeconfig.json
+/Users/jb4/codes/LuckySeven/bin/Debug/netcoreapp2.1/LuckySeven.runtimeconfig.dev.json
+/Users/jb4/codes/LuckySeven/bin/Debug/netcoreapp2.1/LuckySeven.dll
+/Users/jb4/codes/LuckySeven/bin/Debug/netcoreapp2.1/LuckySeven.pdb
+/Users/jb4/codes/LuckySeven/obj/Debug/netcoreapp2.1/LuckySeven.dll
+/Users/jb4/codes/LuckySeven/obj/Debug/netcoreapp2.1/LuckySeven.pdb
